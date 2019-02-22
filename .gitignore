@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ShippingFeeCalculator/bin/Debug
+/ShippingFeeCalculator/obj/Debug
+/ShippingFeeCalculatorLogic/bin/Debug
+/ShippingFeeCalculatorLogic/obj/Debug
+/ShippingFeeCalculatorModels/bin/Debug
+/ShippingFeeCalculatorModels/obj/Debug

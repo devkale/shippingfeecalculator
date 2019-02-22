@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingFeeCalculator", "ShippingFeeCalculator\ShippingFeeCalculator.csproj", "{CDC746FD-6853-413A-856F-FA4B7DED06D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingFeeCalculatorModels", "ShippingFeeCalculatorModels\ShippingFeeCalculatorModels.csproj", "{837EE15E-0F90-4411-911B-F4192D35280F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingFeeCalculatorLogic", "ShippingFeeCalculatorLogic\ShippingFeeCalculatorLogic.csproj", "{01AA5271-AF2E-453E-AD37-23FF88D03D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC746FD-6853-413A-856F-FA4B7DED06D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC746FD-6853-413A-856F-FA4B7DED06D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC746FD-6853-413A-856F-FA4B7DED06D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC746FD-6853-413A-856F-FA4B7DED06D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837EE15E-0F90-4411-911B-F4192D35280F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837EE15E-0F90-4411-911B-F4192D35280F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837EE15E-0F90-4411-911B-F4192D35280F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837EE15E-0F90-4411-911B-F4192D35280F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01AA5271-AF2E-453E-AD37-23FF88D03D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AA5271-AF2E-453E-AD37-23FF88D03D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AA5271-AF2E-453E-AD37-23FF88D03D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AA5271-AF2E-453E-AD37-23FF88D03D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
